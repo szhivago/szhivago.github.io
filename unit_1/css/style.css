@@ -1,7 +1,9 @@
 body {
 	background-color: black;
-}
-
-h1, p {
 	color: yellow;
+	font-size:16px;
+	font-family:helvetica, sans-serif;
+}
+h1 {
+	font-size:2em;
 }
